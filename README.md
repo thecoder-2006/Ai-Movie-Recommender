@@ -11,10 +11,7 @@ We use the MovieLens Small Dataset, which includes:
 
 📊 Data Exploration
 Basic insights extracted using Pandas:
-|  |  | 
-|  |  | 
-|  |  | 
-|  |  | 
+
 
 
 Top 5 Movies by Rating Count:
@@ -41,6 +38,7 @@ Built using Streamlit, the UI allows users to:
 - The Dark Knight
 - Titanic
 - Toy Story
+
 
 
 
