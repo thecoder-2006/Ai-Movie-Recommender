@@ -1,6 +1,7 @@
 ﻿# Ai-Movie-Recommender
 
- 📌 Overview
+ 📌 Overview:
+ 
 Users can input a movie title, and the system will suggest similar movies based on genre similarity (Content-Based Filtering). The recommendations are displayed via a clean and intuitive Streamlit UI.
 
 📂 Dataset
@@ -40,5 +41,6 @@ Built using Streamlit, the UI allows users to:
 - The Dark Knight
 - Titanic
 - Toy Story
+
 
 
